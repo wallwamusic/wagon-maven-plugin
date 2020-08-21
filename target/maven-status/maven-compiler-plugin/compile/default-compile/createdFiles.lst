@@ -1,0 +1,7 @@
+org\codehaus\mojo\wagon\AbstractSingleWagonMojo.class
+org\codehaus\mojo\wagon\UploadMojo.class
+org\codehaus\mojo\wagon\shared\WagonUpload.class
+org\codehaus\mojo\wagon\shared\WagonUtils.class
+org\codehaus\mojo\wagon\HelpMojo.class
+org\codehaus\mojo\wagon\AbstractWagonMojo.class
+org\codehaus\mojo\wagon\shared\DefaultWagonUpload.class

@@ -1,0 +1,17 @@
+<component-set>
+  <components>
+    <component>
+      <role>org.codehaus.mojo.wagon.shared.WagonUpload</role>
+      <role-hint>default</role-hint>
+      <implementation>org.codehaus.mojo.wagon.shared.DefaultWagonUpload</implementation>
+      <description></description>
+      <isolated-realm>false</isolated-realm>
+      <requirements>
+        <requirement>
+          <role>org.codehaus.plexus.archiver.manager.ArchiverManager</role>
+          <field-name>archiverManager</field-name>
+        </requirement>
+      </requirements>
+    </component>
+  </components>
+</component-set>
